@@ -6,18 +6,18 @@ JavaFX application for Windows to create view html rebuilding owen Time Line fro
 
 [Get Application and run]
 
-3. Download outboxtocontentfx.OutboxToContentFx.zip to your Windows PC.
+2. Download outboxtocontentfx.OutboxToContentFx.zip to your Windows PC.
    
-5. Place the zip file to a proper folder in which zip are unzipped.
+3. Place the zip file to a proper folder in which zip are unzipped.
    
-7. Find OutboxToContentFx.bat in bin folder within unzipped folders.
+4. Find OutboxToContentFx.bat in bin folder within unzipped folders.
    
-9. DoubleClick the file to start.
+5. DoubleClick the file to start.
     
-11. First, Windows Warning appears.
+6. First, Windows Warning appears.
     
-13. Click 'Detail' to get excution button.
+7. Click 'Detail' to get excution button.
     
-15. Click the excution button.
+8. Click the excution button.
 
 
